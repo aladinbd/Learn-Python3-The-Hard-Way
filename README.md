@@ -1,5 +1,5 @@
 # Learn Python3 The Hard Way
-My Practice through learn python 3 the hard way book at [http://learnpythonthehardway.org/]
+My Practice through learn python 3 the hard way book at [learnpythonhardway.org](http://learnpythonthehardway.org/)
 ## Table Of Contents
 * [Preface](https://learnpythonthehardway.org/python3/preface.html)
 * [Introduction: The Hard Way Is Easier](https://learnpythonthehardway.org/python3/intro.html)
