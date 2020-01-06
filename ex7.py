@@ -16,5 +16,5 @@ end10 = "e"
 end11 = "r"
 
 # watch that comma at the end. try removing it to see what happens
-print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
+print(end1 + end2 + end3 + end4 + end5 + end6, end=' ') # end function prevents to create new line
 print(end7 + end9 + end10 + end11)
